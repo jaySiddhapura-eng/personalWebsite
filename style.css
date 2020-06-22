@@ -7,3 +7,15 @@ p{
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: darkslategray;
 }
+
+.my-container{
+    border: 4px solid green;
+    }
+
+.my-row{
+    border: 2px solid orange;
+    }
+
+.my-column{
+    border: 2px dotted blue;
+    }
