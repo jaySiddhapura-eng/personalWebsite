@@ -8,6 +8,10 @@ p{
     color: darkslategray;
 }
 
+body{
+    background-color: rgb(26, 129, 129);
+}
+
 .my-container{
     border: 4px solid green;
     }
